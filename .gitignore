@@ -2,3 +2,5 @@
 */.project
 */src/*.class
 */bin/
+*.txt
+*.rar
